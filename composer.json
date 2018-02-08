@@ -1,0 +1,19 @@
+{
+    "name": "credevlab/commerce-connector",
+    "description": "Commerce connector module for PHP",
+    "type": "library",
+    "require": {
+        "ext-curl": "*",
+        "guzzlehttp/guzzle": "^6.3",
+        "psr/log": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Aman Srivastava",
+            "email": "credevator@outlook.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Credevlab\\CommerceConnector\\": "src/"}
+    }
+}
