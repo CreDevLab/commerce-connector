@@ -18,12 +18,12 @@
 
 ### Customer
 
-[] Guest Cart
-[] Guest Checkout
-[] Create Account
-[] Login
-[] Logout
-[] Orders list 
+[] Guest Cart  
+[] Guest Checkout  
+[] Create Account  
+[] Login  
+[] Logout  
+[] Orders list  
  
 ### Sales
 

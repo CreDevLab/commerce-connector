@@ -2,6 +2,7 @@
     "name": "credevlab/commerce-connector",
     "description": "Commerce connector module for PHP",
     "type": "library",
+    "version" : "1.0.0-dev",
     "require": {
         "ext-curl": "*",
         "guzzlehttp/guzzle": "^6.3",
