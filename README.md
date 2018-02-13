@@ -2,10 +2,10 @@
 
 ### Catalog
 
-[] Get Category Tree  
-[] Get Category by Id  
+[x] Get Category Tree  
+[x] Get Category by Id  
 [] Get Category Filters  
-[] Get Products  
+[x] Get Products  
 [x] Get Product by Identifier  
 [] Get Product Types  
 [] Get Product Groups  
@@ -27,5 +27,5 @@
  
 ### Sales
 
-[] Create Order
+[] Create Order  
 [] Get Order Status
