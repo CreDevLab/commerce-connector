@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: aman.srivastava
- * Date: 08/02/18
- * Time: 4:07 PM
- */
 
 namespace Credevlab\CommerceConnector;
 

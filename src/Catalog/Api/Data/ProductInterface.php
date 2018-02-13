@@ -11,8 +11,8 @@ interface ProductInterface
     const SKU = 'sku';
     const NAME = 'name';
     const PRICE = 'price';
-    const WEIGHT = 'weight';
     const STATUS = 'status';
+    const TYPE = 'product_type';
 
     /**
      * Product id
